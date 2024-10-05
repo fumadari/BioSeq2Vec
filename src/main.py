@@ -1,5 +1,5 @@
 import torch
-from train import train_model
+from src.training.train import train_model
 from model import SeqTransformer
 import yaml
 import os
