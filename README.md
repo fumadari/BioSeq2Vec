@@ -1,7 +1,3 @@
-# BioSeq2Vec
-Transformer-based model to encode biological sequences into dense vector representations
-
-
 # BioSeq2Vec: Encoding Biological Sequences via Transformer-based Representation Learning
 
 ## Overview
